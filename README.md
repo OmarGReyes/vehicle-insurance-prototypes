@@ -25,4 +25,7 @@ this application was developed with HTML, CSS and JavaScript according to the pr
 JavaScript Moderno Guía Definitiva Construye +15 Proyectos</a>
 
 ## How it works?
-
+1) Pick a "marca". you can choose: European, American or Asian
+2) Select model year
+3) Pick "Basic" or "Complete" insurance.
+4) this will return the value of the vehicle insurance. 
